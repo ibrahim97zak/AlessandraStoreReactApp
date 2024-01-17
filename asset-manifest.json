@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AlessandraStoreReactApp/static/css/main.bd66c030.css",
-    "main.js": "/AlessandraStoreReactApp/static/js/main.2408035c.js",
+    "main.js": "/AlessandraStoreReactApp/static/js/main.827780c1.js",
     "static/js/787.5badb534.chunk.js": "/AlessandraStoreReactApp/static/js/787.5badb534.chunk.js",
     "static/media/3.png": "/AlessandraStoreReactApp/static/media/3.ad2790a4b0344da44480.png",
     "static/media/1.png": "/AlessandraStoreReactApp/static/media/1.a54c45401e4f81babf1c.png",
@@ -15,11 +15,11 @@
     "static/media/slick.woff": "/AlessandraStoreReactApp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/AlessandraStoreReactApp/index.html",
     "main.bd66c030.css.map": "/AlessandraStoreReactApp/static/css/main.bd66c030.css.map",
-    "main.2408035c.js.map": "/AlessandraStoreReactApp/static/js/main.2408035c.js.map",
+    "main.827780c1.js.map": "/AlessandraStoreReactApp/static/js/main.827780c1.js.map",
     "787.5badb534.chunk.js.map": "/AlessandraStoreReactApp/static/js/787.5badb534.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd66c030.css",
-    "static/js/main.2408035c.js"
+    "static/js/main.827780c1.js"
   ]
 }
