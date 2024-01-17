@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AlessandraStoreReactApp/static/css/main.bd66c030.css",
+    "main.js": "/AlessandraStoreReactApp/static/js/main.b60b6a6d.js",
+    "static/js/787.5badb534.chunk.js": "/AlessandraStoreReactApp/static/js/787.5badb534.chunk.js",
+    "static/media/3.png": "/AlessandraStoreReactApp/static/media/3.ad2790a4b0344da44480.png",
+    "static/media/1.png": "/AlessandraStoreReactApp/static/media/1.a54c45401e4f81babf1c.png",
+    "static/media/2.png": "/AlessandraStoreReactApp/static/media/2.8abea483c3456d46ecef.png",
+    "static/media/logo-2-Recovered2.png": "/AlessandraStoreReactApp/static/media/logo-2-Recovered2.b9d771939efcfefd9719.png",
+    "static/media/postermob.png": "/AlessandraStoreReactApp/static/media/postermob.708cdf0dc4d155b08284.png",
+    "static/media/Alessandra shop (100 × 300 px).png": "/AlessandraStoreReactApp/static/media/Alessandra shop (100 × 300 px).5516e9af18980e48813c.png",
+    "static/media/slick.svg": "/AlessandraStoreReactApp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/AlessandraStoreReactApp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/AlessandraStoreReactApp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/AlessandraStoreReactApp/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/AlessandraStoreReactApp/index.html",
+    "main.bd66c030.css.map": "/AlessandraStoreReactApp/static/css/main.bd66c030.css.map",
+    "main.b60b6a6d.js.map": "/AlessandraStoreReactApp/static/js/main.b60b6a6d.js.map",
+    "787.5badb534.chunk.js.map": "/AlessandraStoreReactApp/static/js/787.5badb534.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd66c030.css",
+    "static/js/main.b60b6a6d.js"
+  ]
+}
