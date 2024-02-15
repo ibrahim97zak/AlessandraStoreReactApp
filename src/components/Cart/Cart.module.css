@@ -1,0 +1,57 @@
+@media (min-width: 1025px) {
+    .hcustom {
+    height: 100vh !important;
+    }
+    }
+    
+    .cardRegistration .selectinput.formcontrol[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    
+    .cardRegistration .selectarrow {
+    top: 13px;
+    }
+    
+    .bggrey {
+    background-color: #eae8e8;
+    }
+    
+    @media (min-width: 992px) {
+    .cardRegistration2 .bggrey {
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+    }
+    }
+    @media (max-width:884px){
+        .imgitem{
+            
+            width: 280px !important;
+        }
+    }
+    @media (max-width: 575px){
+        .shoptitle{
+            font-size: 25px !important;
+        }
+        .imgitem{
+            
+            width: 80px !important;
+        }
+        .cartcard{
+            flex-direction: column;
+        }
+        .quant{
+            position: relative;
+            text-align: center;
+
+        }
+    }
+
+   
+    input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

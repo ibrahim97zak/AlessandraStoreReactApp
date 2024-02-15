@@ -1,0 +1,46 @@
+
+h1{
+    font-size: 70px !important;
+}
+.overlay{
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bgimage{
+    margin-top: 50px;
+    position: absolute;
+}
+
+.headTitle{
+    position: relative;
+    top: 400px;
+    left: 380px;
+    background-color: black;
+}
+@media (max-width:1325px){
+    .bgimage{
+        background-position: center !important;
+        background-size: contain !important;
+        background-repeat: no-repeat !important;
+    }
+    .headTitle{
+        left: 0px;
+        top: 505px;
+        width: 100%;
+        
+    }
+}
+@media (max-width:500px) {
+    .bgimage{
+        margin-top: 30px;
+        background-image: url('./../../../public/images/postermob.png') !important;
+    }
+    .headTitle{
+        bottom: 0px !important;
+        height: 200px;
+        
+        
+    }
+}

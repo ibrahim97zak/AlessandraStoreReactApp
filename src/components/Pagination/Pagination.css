@@ -1,0 +1,23 @@
+.Pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px;
+    padding-bottom: 20px;
+}
+.page{
+    border: 1px solid #ffffff;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    color:rgb(14, 14, 14);
+    cursor: pointer;
+    background-color: #E0C3A6;
+}
+.Pagination .active {
+    background-color: #d8a775;
+}
